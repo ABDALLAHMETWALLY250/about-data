@@ -1,0 +1,35 @@
+{
+    "description": [
+      {
+        "title": "+10 project complete",
+        "icon": "fa-solid fa-briefcase"
+      },
+      {
+        "title": "+1000 cup of coffe",
+        "icon": "fa-solid fa-mug-hot ou"
+
+      },
+      {
+        "title": "+100 satisfied clients",
+        "icon": "fa-solid fa-face-smile ou"
+
+      },
+      
+      {
+        "title": "+2 years job experience",
+        "icon": "fa-solid fa-face-smile ou"
+
+      },
+      {
+        "title": "+2000 lines of code",
+        "icon": "fa-solid fa-code ou"
+
+      }
+      ,
+      {
+        "title": "+5 award won",
+        "icon": "fa-solid fa-medal ou"
+
+      }
+    ]
+  }
